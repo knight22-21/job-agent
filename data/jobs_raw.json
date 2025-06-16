@@ -1,0 +1,16 @@
+[
+  {
+    "title": "AI Research Intern",
+    "company": "Neural Labs",
+    "location": "Remote",
+    "description": "Work on NLP model evaluation using Python. Entry-level preferred.",
+    "url": "https://example.com/job1"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "FinTechCorp",
+    "location": "New York, NY",
+    "description": "Requires 5+ years in financial data modeling.",
+    "url": "https://example.com/job2"
+  }
+]

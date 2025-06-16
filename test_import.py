@@ -1,0 +1,2 @@
+from filters.ollama_filter import filter_jobs_with_ollama
+filter_jobs_with_ollama()
