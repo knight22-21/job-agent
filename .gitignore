@@ -1,1 +1,58 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+*.egg-info/
+.eggs/
+
+# macOS/Linux system files
+*.swp
+*~
+
+# Compiled files
+*.class
+*.o
+*.so
+*.out
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Build files
+dist/
+build/
+coverage/
+*.tgz
+
+# Package managers
+*.lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Git
+.git/
+*.orig
