@@ -1,16 +1,302 @@
 [
   {
-    "title": "AI Research Intern",
-    "company": "Neural Labs",
-    "location": "Remote",
-    "description": "Work on NLP model evaluation using Python. Entry-level preferred.",
-    "url": "https://example.com/job1"
+    "title": "Manager, Data Science  Featured",
+    "company": "Mozilla  Remote-first",
+    "location": "Remote US",
+    "url": "https://aijobs.net/job/1285095-manager-data-science/"
   },
   {
-    "title": "Senior Data Scientist",
-    "company": "FinTechCorp",
-    "location": "New York, NY",
-    "description": "Requires 5+ years in financial data modeling.",
-    "url": "https://example.com/job2"
+    "title": "Staff Data Scientist  Featured",
+    "company": "Mozilla  Remote-first",
+    "location": "Remote Canada",
+    "url": "https://aijobs.net/job/1234499-staff-data-scientist/"
+  },
+  {
+    "title": "Seed LLM Global Data - Model Red-teaming Analyst",
+    "company": "ByteDance",
+    "location": "Singapore",
+    "url": "https://aijobs.net/job/1350659-seed-llm-global-data-model-red-teaming-analyst/"
+  },
+  {
+    "title": "Seed LLM Global Data - Model Safety Analyst",
+    "company": "ByteDance",
+    "location": "Singapore",
+    "url": "https://aijobs.net/job/1350658-seed-llm-global-data-model-safety-analyst/"
+  },
+  {
+    "title": "EY - GDS Consulting - AI and DATA - Excel Model Developer - Senior",
+    "company": "EY",
+    "location": "Kochi, KL, IN, 682313",
+    "url": "https://aijobs.net/job/1350657-ey-gds-consulting-ai-and-data-excel-model-developer-senior/"
+  },
+  {
+    "title": "IN-Senior Associate AWS Engineer Data &Analytics Advisory Bangalore",
+    "company": "PwC",
+    "location": "Bengaluru Millenia, India",
+    "url": "https://aijobs.net/job/1350653-in-senior-associate-aws-engineer-data-analytics-advisory-bangalore/"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Vestas",
+    "location": "Chennai, TN, IN",
+    "url": "https://aijobs.net/job/1350652-data-analyst/"
+  },
+  {
+    "title": "Senior Fullstack Engineer",
+    "company": "Jonas Software  Remote-first",
+    "location": "Remote - USA, United States",
+    "url": "https://aijobs.net/job/1350651-senior-fullstack-engineer/"
+  },
+  {
+    "title": "Lead Engineer - Probabilistic Design - Aerospace Research",
+    "company": "GE Aerospace",
+    "location": "Niskayuna, United States",
+    "url": "https://aijobs.net/job/1350632-lead-engineer-probabilistic-design-aerospace-research/"
+  },
+  {
+    "title": "Doktorandin / Doktorand KI-Methoden Robotik (w/m/d)",
+    "company": "Volkswagen Group",
+    "location": "Wolfsburg, DE, 38436",
+    "url": "https://aijobs.net/job/1350631-doktorandin-doktorand-ki-methoden-robotik-wmd/"
+  },
+  {
+    "title": "Research Scientist Graduate- (Foundation Model, Vision and Language) - 2025 Start (PhD)",
+    "company": "ByteDance",
+    "location": "Seattle",
+    "url": "https://aijobs.net/job/1350630-research-scientist-graduate-foundation-model-vision-and-language-2025-start-phd/"
+  },
+  {
+    "title": "Tech Lead - IaaS AI Infra- Seattle",
+    "company": "ByteDance",
+    "location": "Seattle",
+    "url": "https://aijobs.net/job/1350629-tech-lead-iaas-ai-infra-seattle/"
+  },
+  {
+    "title": "Sr. Professional, Technical Project Manager",
+    "company": "Cotality",
+    "location": "Dallas - 3001 Hackberry Rd, United States",
+    "url": "https://aijobs.net/job/1350626-sr-professional-technical-project-manager/"
+  },
+  {
+    "title": "Security Projects Intern",
+    "company": "IQUW Group",
+    "location": "London, UK",
+    "url": "https://aijobs.net/job/1350624-security-projects-intern/"
+  },
+  {
+    "title": "Security Projects Intern",
+    "company": "IQUW",
+    "location": "London, UK",
+    "url": "https://aijobs.net/job/1350623-security-projects-intern/"
+  },
+  {
+    "title": "Senior Analyst, Credit Risk",
+    "company": "Neo Financial",
+    "location": "Toronto, Canada",
+    "url": "https://aijobs.net/job/1350622-senior-analyst-credit-risk/"
+  },
+  {
+    "title": "Senior LLM Researcher - Contractor",
+    "company": "Huawei Ireland Research Centre",
+    "location": "Dublin, Ireland",
+    "url": "https://aijobs.net/job/1350621-senior-llm-researcher-contractor/"
+  },
+  {
+    "title": "Research Scientist Expert - Recommender Systems - Permanent",
+    "company": "Huawei Ireland Research Centre",
+    "location": "Dublin, Ireland",
+    "url": "https://aijobs.net/job/1350620-research-scientist-expert-recommender-systems-permanent/"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Walaris",
+    "location": "Nuremberg, Bavaria, Germany",
+    "url": "https://aijobs.net/job/1350619-software-engineer/"
+  },
+  {
+    "title": "Consultant - Assurance - National - ASU - CCaSS - CCaSS Services - Mumbai",
+    "company": "EY",
+    "location": "Mumbai, MH, IN, 400028",
+    "url": "https://aijobs.net/job/1350618-consultant-assurance-national-asu-ccass-ccass-services-mumbai/"
+  },
+  {
+    "title": "Lead, Python Software Developer",
+    "company": "S&P Global",
+    "location": "IN - HYDERABAD SKYVIEW, India",
+    "url": "https://aijobs.net/job/1350617-lead-python-software-developer/"
+  },
+  {
+    "title": "Full-Stack Creative Developer (React / Next.js)",
+    "company": "PHONT",
+    "location": "Frankfurt am Main, Germany",
+    "url": "https://aijobs.net/job/1350616-full-stack-creative-developer-react-nextjs/"
+  },
+  {
+    "title": "Research Scientist Graduate (Foundation Model - Music) - 2025 Start (PhD\uff09",
+    "company": "ByteDance",
+    "location": "San Jose",
+    "url": "https://aijobs.net/job/1350615-research-scientist-graduate-foundation-model-music-2025-start-phd/"
+  },
+  {
+    "title": "Research Scientist Graduate (Foundation Model Speech Understanding) - 2025 Start (PhD)",
+    "company": "ByteDance",
+    "location": "San Jose",
+    "url": "https://aijobs.net/job/1350614-research-scientist-graduate-foundation-model-speech-understanding-2025-start-phd/"
+  },
+  {
+    "title": "Research Scientist Gradudate (Foundation Model Speech & Audio Generation) - 2025 Start (PhD\uff09",
+    "company": "ByteDance",
+    "location": "Seattle",
+    "url": "https://aijobs.net/job/1350613-research-scientist-gradudate-foundation-model-speech-audio-generation-2025-start-phd/"
+  },
+  {
+    "title": "Senior Manager, Data & Analytics",
+    "company": "Johnson Brothers",
+    "location": "St. Paul, MN, United States",
+    "url": "https://aijobs.net/job/1350611-senior-manager-data-analytics/"
+  },
+  {
+    "title": "ITI Talent Summit - June 2025",
+    "company": "Banque Misr Transformation office",
+    "location": "Cairo, Cairo Governorate, Egypt",
+    "url": "https://aijobs.net/job/1350610-iti-talent-summit-june-2025/"
+  },
+  {
+    "title": "Internship/ Master Thesis Evaluation of an on-premise Code Intelligence Platform",
+    "company": "ELCA Group",
+    "location": "Zurich, Switzerland",
+    "url": "https://aijobs.net/job/1350609-internship-master-thesis-evaluation-of-an-on-premise-code-intelligence-platform/"
+  },
+  {
+    "title": "PhD Student (f/m/d)",
+    "company": "Volkswagen Group",
+    "location": "Wolfsburg, DE, 38436",
+    "url": "https://aijobs.net/job/1350603-phd-student-fmd/"
+  },
+  {
+    "title": "Guidance Navigation and Control (GNC) Engineer (Lead or Senior)",
+    "company": "Boeing",
+    "location": "USA - Hazelwood, MO, United States",
+    "url": "https://aijobs.net/job/1350602-guidance-navigation-and-control-gnc-engineer-lead-or-senior/"
+  },
+  {
+    "title": "Business Intelligence Product Owner, Logistics & Services",
+    "company": "Maersk",
+    "location": "DKCPH55 - Copenhagen - Esplanaden 50, Denmark",
+    "url": "https://aijobs.net/job/1350601-business-intelligence-product-owner-logistics-services/"
+  },
+  {
+    "title": "FXEM Business Analytics Strategist",
+    "company": "Morgan Stanley",
+    "location": "Budapest Millennium Tower III, Hungary",
+    "url": "https://aijobs.net/job/1350600-fxem-business-analytics-strategist/"
+  },
+  {
+    "title": "IT - Internal Audit - Senior Associate",
+    "company": "Fannie Mae",
+    "location": "Reston Town Center, United States",
+    "url": "https://aijobs.net/job/1350599-it-internal-audit-senior-associate/"
+  },
+  {
+    "title": "Experienced Guidance Navigation and Control (GNC) Engineer",
+    "company": "Boeing",
+    "location": "USA - Hazelwood, MO, United States",
+    "url": "https://aijobs.net/job/1350598-experienced-guidance-navigation-and-control-gnc-engineer/"
+  },
+  {
+    "title": "Lead Software Engineer, Secure Network & Protocols",
+    "company": "Boeing",
+    "location": "USA - Huntington Beach, CA, United States",
+    "url": "https://aijobs.net/job/1350597-lead-software-engineer-secure-network-protocols/"
+  },
+  {
+    "title": "Associate Guidance Navigation and Control (GNC) Engineer",
+    "company": "Boeing",
+    "location": "USA - Hazelwood, MO, United States",
+    "url": "https://aijobs.net/job/1350596-associate-guidance-navigation-and-control-gnc-engineer/"
+  },
+  {
+    "title": "Product Owner - Pricing & Modelling",
+    "company": "MS Reinsurance",
+    "location": "Zurich, Switzerland",
+    "url": "https://aijobs.net/job/1350595-product-owner-pricing-modelling/"
+  },
+  {
+    "title": "Automation Engineer (TS/SCI with Poly)",
+    "company": "Solerity",
+    "location": "Mclean, VA, US",
+    "url": "https://aijobs.net/job/1350594-automation-engineer-tssci-with-poly/"
+  },
+  {
+    "title": "AI Applied Researcher",
+    "company": "Autofleet",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "url": "https://aijobs.net/job/1350593-ai-applied-researcher/"
+  },
+  {
+    "title": "Mjukvaruutvecklare / C++ / Python",
+    "company": "Combine Control Systems",
+    "location": "Link\u00f6ping, Sweden",
+    "url": "https://aijobs.net/job/1350592-mjukvaruutvecklare-c-python/"
+  },
+  {
+    "title": "Credit Risk Manager - Dublin",
+    "company": "4most",
+    "location": "Dublin, Ireland",
+    "url": "https://aijobs.net/job/1350591-credit-risk-manager-dublin/"
+  },
+  {
+    "title": "QA Engineer- AI Application",
+    "company": "Ciena",
+    "location": "India- Gurgaon- JSK Tower- Plot 13",
+    "url": "https://aijobs.net/job/1350590-qa-engineer-ai-application/"
+  },
+  {
+    "title": "Research Associate in Digital Twins in Energy",
+    "company": "Flinders University",
+    "location": "Tonsley, Australia",
+    "url": "https://aijobs.net/job/1350589-research-associate-in-digital-twins-in-energy/"
+  },
+  {
+    "title": "Data Consultant (w/m/d)",
+    "company": "HIGHBERG DACH",
+    "location": "Hamburg",
+    "url": "https://aijobs.net/job/1350588-data-consultant-wmd/"
+  },
+  {
+    "title": "Enterprise Data and BI Lead",
+    "company": "Komatsu",
+    "location": "Fairfield East, NSW, AU",
+    "url": "https://aijobs.net/job/1350581-enterprise-data-and-bi-lead/"
+  },
+  {
+    "title": "Data And Business Intelligence Analyst",
+    "company": "Richmond University Medical Center",
+    "location": "Richmond University Medical Center, United States",
+    "url": "https://aijobs.net/job/1350570-data-and-business-intelligence-analyst/"
+  },
+  {
+    "title": "IN-Senior Associate Cloud Engineer Data and Analytics Advisory Bangalore",
+    "company": "PwC",
+    "location": "Bengaluru Millenia, India",
+    "url": "https://aijobs.net/job/1350568-in-senior-associate-cloud-engineer-data-and-analytics-advisory-bangalore/"
+  },
+  {
+    "title": "Cybersecurity Ent Sol Architect - Data and App Protection",
+    "company": "EY",
+    "location": "Kochi, KL, IN, 682303",
+    "url": "https://aijobs.net/job/1350567-cybersecurity-ent-sol-architect-data-and-app-protection/"
+  },
+  {
+    "title": "Lead PySpark Developer (7233-1)",
+    "company": "Lumiere Systems",
+    "location": "Owings Mills, Maryland, United States",
+    "url": "https://aijobs.net/job/1350556-lead-pyspark-developer-7233-1/"
+  },
+  {
+    "title": "Analytics Engineer / DWH Engineer - Mid / Senior level (100% remote-friendly within Poland)",
+    "company": "Docplanner",
+    "location": "Warsaw, Masovian Voivodeship, Poland",
+    "url": "https://aijobs.net/job/1350555-analytics-engineer-dwh-engineer-mid-senior-level-100-remote-friendly-within-poland/"
   }
 ]

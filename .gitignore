@@ -56,3 +56,8 @@ yarn.lock
 # Git
 .git/
 *.orig
+
+
+
+aijobs_debug.png
+aijobs_page_source.html
