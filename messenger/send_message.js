@@ -3,11 +3,11 @@ import qrcode from 'qrcode-terminal';
 import fs from 'fs';
 import path from 'path';
 
-// Load group IDs from messages.json (you must set correct relative path here)
+// Load group IDs from messages.json (adjust path if needed)
 const groupData = JSON.parse(fs.readFileSync('./messages.json', 'utf-8'));
 
-// Load job data from ../data/jobs_filtered.json
-const jobsFilePath = path.join( 'data', 'jobs_filtered.json');
+// Load job data from data/jobs_filtered.json
+const jobsFilePath = path.join('data', 'jobs_filtered.json');
 const jobListings = JSON.parse(fs.readFileSync(jobsFilePath, 'utf-8'));
 
 async function startBot() {
@@ -40,27 +40,27 @@ async function startBot() {
       return;
     }
 
+    // Format job listings
     const formattedJobs = jobListings.map(job => {
       return `📌 *${job.title}*\n🏢 Company: ${job.company}\n🌍 Location: ${job.location}\n🔗 Apply: ${job.url}`;
     }).join('\n\n');
 
     for (const { groupId } of groupData) {
       if (!groupId) {
-        console.warn('Skipping invalid groupId:', groupId);
+        console.warn('Skipping invalid group ID.');
         continue;
       }
 
-      console.log(`Sending jobs to ${groupId}`);
       try {
+        // Send message using groupId internally, but don't print it
         await sock.sendMessage(groupId, { text: formattedJobs });
-        console.log(`✅ Sent job listings to ${groupId}`);
       } catch (e) {
-        console.error(`❌ Failed to send message to ${groupId}`, e);
+        console.error('Failed to send message to a group.');
       }
     }
 
     setTimeout(() => {
-      console.log("✅ All messages sent. Exiting...");
+      console.log("All messages sent. Exiting...");
       process.exit(0);
     }, 2000);
   }

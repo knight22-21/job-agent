@@ -67,3 +67,4 @@ tokens/
 get-groups.js
 messenger/not_used/
 messages.json
+auth_info_listener/

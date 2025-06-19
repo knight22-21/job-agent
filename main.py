@@ -42,8 +42,23 @@ def scrape():
 @app.command()
 def message():
     logger.info("Sending messages to WhatsApp group...")
-    subprocess.run(["node", "messenger/send_jobs.js"])
+    subprocess.run(["node", "messenger/send_message.js"])
     
+@app.command()
+def run():
+    """
+    Run the full job scraping pipeline: scrape → filter → message.
+    """
+    logger.info("Starting full pipeline...")
+    
+    try:
+        scrape()
+        filter_jobs_with_ollama()
+        subprocess.run(["node", "messenger/send_message.js"])
+        logger.info("Pipeline completed successfully.")
+    except Exception as e:
+        logger.error(f"Pipeline failed: {e}")
+
 
 if __name__ == "__main__":
     app()
