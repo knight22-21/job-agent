@@ -1,0 +1,26 @@
+{
+  "name": "job-agent",
+  "version": "1.0.0",
+  "description": "A local-first, modular, CLI-based agent that scrapes AI jobs from the web, filters them using a local LLM (like Ollama), and sends the results to your WhatsApp group using free and open-source tools.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node messenger/send_message.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knight22-21/job-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knight22-21/job-agent/issues"
+  },
+  "homepage": "https://github.com/knight22-21/job-agent#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

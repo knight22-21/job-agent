@@ -6,6 +6,7 @@ import json
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 from filters.ollama_filter import filter_jobs_with_ollama
 from scrapers.ai_jobs_scraper import scrape_ai_jobs_net
+import subprocess
 
 app = typer.Typer()
 
@@ -37,6 +38,11 @@ def scrape():
     
     with open("data/jobs_raw.json", "w", encoding="utf-8") as f:
         json.dump(all_jobs, f, indent=2)
+    
+@app.command()
+def message():
+    logger.info("Sending messages to WhatsApp group...")
+    subprocess.run(["node", "messenger/send_jobs.js"])
     
 
 if __name__ == "__main__":
